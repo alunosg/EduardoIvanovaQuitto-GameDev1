@@ -1,0 +1,1197 @@
+fileFormatVersion: 2
+guid: 04f1bdfa773ad9e4eb30257fa9b8578a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8656039139394493776
+    second: PlayerAtacando_0
+  - first:
+      213: -9150125742654255189
+    second: PlayerAtacando_1
+  - first:
+      213: 213364679562644788
+    second: PlayerAtacando_2
+  - first:
+      213: -2067967305065396028
+    second: PlayerAtacando_3
+  - first:
+      213: -419861289351572674
+    second: PlayerAtacando_4
+  - first:
+      213: -3141567765898144153
+    second: PlayerAtacando_5
+  - first:
+      213: -1056669758845598907
+    second: PlayerAtacando_6
+  - first:
+      213: 6196279064180597832
+    second: PlayerAtacando_7
+  - first:
+      213: -349992189079249818
+    second: PlayerAtacando_8
+  - first:
+      213: 2423793801724110966
+    second: PlayerAtacando_9
+  - first:
+      213: 7147448112082324027
+    second: PlayerAtacando_10
+  - first:
+      213: 1205509195958046353
+    second: PlayerAtacando_11
+  - first:
+      213: -217631801649999545
+    second: PlayerAtacando_12
+  - first:
+      213: 603040915475743996
+    second: PlayerAtacando_13
+  - first:
+      213: -1673976699208013712
+    second: PlayerAtacando_14
+  - first:
+      213: -603388913688259461
+    second: PlayerAtacando_15
+  - first:
+      213: -5583797053671644533
+    second: PlayerAtacando_16
+  - first:
+      213: -7368371045849251661
+    second: PlayerAtacando_17
+  - first:
+      213: 6147999949811818202
+    second: PlayerAtacando_18
+  - first:
+      213: 2585960422152038178
+    second: PlayerAtacando_19
+  - first:
+      213: 1206513228819373541
+    second: PlayerAtacando_20
+  - first:
+      213: 751738403360332512
+    second: PlayerAtacando_21
+  - first:
+      213: -7618744504360536
+    second: PlayerAtacando_22
+  - first:
+      213: -5503798547583494721
+    second: PlayerAtacando_23
+  - first:
+      213: 4258738077992329106
+    second: PlayerAtacando_24
+  - first:
+      213: 8220061643464337229
+    second: PlayerAtacando_25
+  - first:
+      213: 5446885828744624724
+    second: PlayerAtacando_26
+  - first:
+      213: 3013885973262753682
+    second: PlayerAtacando_27
+  - first:
+      213: -2344307714636184232
+    second: PlayerAtacando_28
+  - first:
+      213: -1720383991850063126
+    second: PlayerAtacando_29
+  - first:
+      213: 861388471574427271
+    second: PlayerAtacando_30
+  - first:
+      213: 198087249770712450
+    second: PlayerAtacando_31
+  - first:
+      213: 812208716267311402
+    second: PlayerAtacando_32
+  - first:
+      213: -8712594542495906531
+    second: PlayerAtacando_33
+  - first:
+      213: -3740750109489847161
+    second: PlayerAtacando_34
+  - first:
+      213: -2229401910979157109
+    second: PlayerAtacando_35
+  - first:
+      213: 5975415351312187437
+    second: PlayerAtacando_36
+  - first:
+      213: 4971113990324873988
+    second: PlayerAtacando_37
+  - first:
+      213: 2329494442265101466
+    second: PlayerAtacando_38
+  - first:
+      213: -1431113675429853913
+    second: PlayerAtacando_39
+  - first:
+      213: -8899939555582028012
+    second: PlayerAtacando_40
+  - first:
+      213: -8293644481244692809
+    second: PlayerAtacando_41
+  - first:
+      213: -2864519058952230710
+    second: PlayerAtacando_42
+  - first:
+      213: 6699505578142498819
+    second: PlayerAtacando_43
+  - first:
+      213: -7242702248085235732
+    second: PlayerAtacando_44
+  - first:
+      213: -2432810584511066263
+    second: PlayerAtacando_45
+  - first:
+      213: 460086861380627932
+    second: PlayerAtacando_46
+  - first:
+      213: -5749552637249866930
+    second: PlayerAtacando_47
+  - first:
+      213: 3152541812309194585
+    second: PlayerAtacando_48
+  - first:
+      213: 8269745939224294056
+    second: PlayerAtacando_49
+  - first:
+      213: 8759884260254616211
+    second: PlayerAtacando_50
+  - first:
+      213: 880845539472314554
+    second: PlayerAtacando_51
+  - first:
+      213: -3737470019517073428
+    second: PlayerAtacando_52
+  - first:
+      213: -6587780481950550848
+    second: PlayerAtacando_53
+  - first:
+      213: 5238556393851365991
+    second: PlayerAtacando_54
+  - first:
+      213: 6471589854910740890
+    second: PlayerAtacando_55
+  - first:
+      213: -7213191044427152213
+    second: PlayerAtacando_56
+  - first:
+      213: -6156812249768815872
+    second: PlayerAtacando_57
+  - first:
+      213: -162536573000532706
+    second: PlayerAtacando_58
+  - first:
+      213: -5345920171193933771
+    second: PlayerAtacando_59
+  - first:
+      213: -2258329205251547414
+    second: PlayerAtacando_60
+  - first:
+      213: 6579825037000830566
+    second: PlayerAtacando_61
+  - first:
+      213: -7071202503476220004
+    second: PlayerAtacando_62
+  - first:
+      213: 6902213358712179850
+    second: PlayerAtacando_63
+  - first:
+      213: 2768669920770101585
+    second: PlayerAtacando_64
+  - first:
+      213: -7722202845861428291
+    second: PlayerAtacando_65
+  - first:
+      213: 2042688265338368867
+    second: PlayerAtacando_66
+  - first:
+      213: -835896512277861803
+    second: PlayerAtacando_67
+  - first:
+      213: 1849804233675608614
+    second: PlayerAtacando_68
+  - first:
+      213: -7650130395291209611
+    second: PlayerAtacando_69
+  - first:
+      213: -4211324705005509057
+    second: PlayerAtacando_70
+  - first:
+      213: 2396203652970590563
+    second: PlayerAtacando_71
+  - first:
+      213: -8381490939745990792
+    second: PlayerAtacando_72
+  - first:
+      213: -2572555140757194390
+    second: PlayerAtacando_73
+  - first:
+      213: 6927691843603288763
+    second: PlayerAtacando_74
+  - first:
+      213: 9015278543375905214
+    second: PlayerAtacando_75
+  - first:
+      213: 400257880938739703
+    second: PlayerAtacando_76
+  - first:
+      213: -4108109345270357578
+    second: PlayerAtacando_77
+  - first:
+      213: -6031436743188775019
+    second: PlayerAtacando_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerAtacando_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d9c715cbd602870800000000000000
+      internalID: 8656039139394493776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_1
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2450
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf8fe2dd19340180800000000000000
+      internalID: -9150125742654255189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_2
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2450
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d42fcab0606f200800000000000000
+      internalID: 213364679562644788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_3
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2450
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8847e41ba1d43e0800000000000000
+      internalID: -2067967305065396028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_4
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 2450
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e331341c16a5c2af0800000000000000
+      internalID: -419861289351572674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_5
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 2450
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766d2dbf2c8e664d0800000000000000
+      internalID: -3141567765898144153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5434c1be374f551f0800000000000000
+      internalID: -1056669758845598907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1960
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844aca5cafa9df550800000000000000
+      internalID: 6196279064180597832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_8
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1960
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c15c755f3942bf0800000000000000
+      internalID: -349992189079249818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_9
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1960
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6782f80fe9b03a120800000000000000
+      internalID: 2423793801724110966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_10
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1960
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a043b6036d03360800000000000000
+      internalID: 7147448112082324027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_11
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 1960
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ecb860a34dab010800000000000000
+      internalID: 1205509195958046353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741d2da8701dafcf0800000000000000
+      internalID: -217631801649999545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1470
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf445ff748e6e5800800000000000000
+      internalID: 603040915475743996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_14
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1470
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078ec69af07d4c8e0800000000000000
+      internalID: -1673976699208013712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_15
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1470
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74d33adaf450a7f0800000000000000
+      internalID: -603388913688259461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_16
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 1470
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b826706f92e5282b0800000000000000
+      internalID: -5583797053671644533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_17
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 1470
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0c1e6b2994eb990800000000000000
+      internalID: -7368371045849251661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade17af7165125550800000000000000
+      internalID: 6147999949811818202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_19
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 980
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227679d8d4d23e320800000000000000
+      internalID: 2585960422152038178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_20
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 980
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed9694a3656eb010800000000000000
+      internalID: 1206513228819373541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_21
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 980
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eadf405816be6a00800000000000000
+      internalID: 751738403360332512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_22
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 980
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ee20dacee4eff0800000000000000
+      internalID: -7618744504360536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_23
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 980
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb599ff91649e93b0800000000000000
+      internalID: -5503798547583494721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f992ad7b31a1b30800000000000000
+      internalID: 4258738077992329106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_25
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 490
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4761825386831270800000000000000
+      internalID: 8220061643464337229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_26
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 490
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45abe6a6dc9379b40800000000000000
+      internalID: 5446885828744624724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_27
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 490
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fdbdd035973d920800000000000000
+      internalID: 3013885973262753682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_28
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 490
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85507e0ed88577fd0800000000000000
+      internalID: -2344307714636184232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_29
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 490
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea2288dfd7ff18e0800000000000000
+      internalID: -1720383991850063126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7867fc5404444fb00800000000000000
+      internalID: 861388471574427271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_31
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d0e1ddd4fbfb200800000000000000
+      internalID: 198087249770712450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_32
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21d690368b854b00800000000000000
+      internalID: 812208716267311402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_33
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d154686cc65a61780800000000000000
+      internalID: -8712594542495906531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_34
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784aa52489f261cc0800000000000000
+      internalID: -3740750109489847161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAtacando_35
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 716
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83a28a16c29f01e0800000000000000
+      internalID: -2229401910979157109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab78363d8878c5b40a245898e59c5a3a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":716.0,"y":490.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PlayerAtacando_0: 8656039139394493776
+      PlayerAtacando_1: -9150125742654255189
+      PlayerAtacando_10: 7147448112082324027
+      PlayerAtacando_11: 1205509195958046353
+      PlayerAtacando_12: -217631801649999545
+      PlayerAtacando_13: 603040915475743996
+      PlayerAtacando_14: -1673976699208013712
+      PlayerAtacando_15: -603388913688259461
+      PlayerAtacando_16: -5583797053671644533
+      PlayerAtacando_17: -7368371045849251661
+      PlayerAtacando_18: 6147999949811818202
+      PlayerAtacando_19: 2585960422152038178
+      PlayerAtacando_2: 213364679562644788
+      PlayerAtacando_20: 1206513228819373541
+      PlayerAtacando_21: 751738403360332512
+      PlayerAtacando_22: -7618744504360536
+      PlayerAtacando_23: -5503798547583494721
+      PlayerAtacando_24: 4258738077992329106
+      PlayerAtacando_25: 8220061643464337229
+      PlayerAtacando_26: 5446885828744624724
+      PlayerAtacando_27: 3013885973262753682
+      PlayerAtacando_28: -2344307714636184232
+      PlayerAtacando_29: -1720383991850063126
+      PlayerAtacando_3: -2067967305065396028
+      PlayerAtacando_30: 861388471574427271
+      PlayerAtacando_31: 198087249770712450
+      PlayerAtacando_32: 812208716267311402
+      PlayerAtacando_33: -8712594542495906531
+      PlayerAtacando_34: -3740750109489847161
+      PlayerAtacando_35: -2229401910979157109
+      PlayerAtacando_4: -419861289351572674
+      PlayerAtacando_5: -3141567765898144153
+      PlayerAtacando_6: -1056669758845598907
+      PlayerAtacando_7: 6196279064180597832
+      PlayerAtacando_8: -349992189079249818
+      PlayerAtacando_9: 2423793801724110966
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

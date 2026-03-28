@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: c0ee7581054af5a41a824878c76f0b26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2934446931941042965
+    second: PlayerParado_0
+  - first:
+      213: -8624789808042689038
+    second: PlayerParado_1
+  - first:
+      213: 2446183934458137590
+    second: PlayerParado_2
+  - first:
+      213: -413511842006401839
+    second: PlayerParado_3
+  - first:
+      213: 7730947817304069166
+    second: PlayerParado_4
+  - first:
+      213: -6687180580939344202
+    second: PlayerParado_5
+  - first:
+      213: -9220050391254679098
+    second: PlayerParado_6
+  - first:
+      213: 1944546252394501399
+    second: PlayerParado_7
+  - first:
+      213: 293665545687678455
+    second: PlayerParado_8
+  - first:
+      213: 4126323468154182318
+    second: PlayerParado_9
+  - first:
+      213: -8157361341727674905
+    second: PlayerParado_10
+  - first:
+      213: 6742821404391941333
+    second: PlayerParado_11
+  - first:
+      213: -4950165023013420992
+    second: PlayerParado_12
+  - first:
+      213: -3114089152328297405
+    second: PlayerParado_13
+  - first:
+      213: -791619415897018409
+    second: PlayerParado_14
+  - first:
+      213: 1004994654493647738
+    second: PlayerParado_15
+  - first:
+      213: -4341508369067126251
+    second: PlayerParado_16
+  - first:
+      213: -8056134434640219511
+    second: PlayerParado_17
+  - first:
+      213: -2464898208078594058
+    second: PlayerParado_18
+  - first:
+      213: 2826404118967067956
+    second: PlayerParado_19
+  - first:
+      213: -8337335992645379908
+    second: PlayerParado_20
+  - first:
+      213: -357360716348927788
+    second: PlayerParado_21
+  - first:
+      213: -6818825918928008662
+    second: PlayerParado_22
+  - first:
+      213: -7360192055512594227
+    second: PlayerParado_23
+  - first:
+      213: -2905174200841333272
+    second: PlayerParado_24
+  - first:
+      213: -2568069662612926034
+    second: PlayerParado_25
+  - first:
+      213: -6908344202507424431
+    second: PlayerParado_26
+  - first:
+      213: 8033667936455762932
+    second: PlayerParado_27
+  - first:
+      213: -7684619131300968150
+    second: PlayerParado_28
+  - first:
+      213: 772117110672957833
+    second: PlayerParado_29
+  - first:
+      213: -4124703286331901617
+    second: PlayerParado_30
+  - first:
+      213: -8398049505977056201
+    second: PlayerParado_31
+  - first:
+      213: 916219534838776775
+    second: PlayerParado_32
+  - first:
+      213: 8968756436674737363
+    second: PlayerParado_33
+  - first:
+      213: 8193997250049961724
+    second: PlayerParado_34
+  - first:
+      213: -5331560748866618721
+    second: PlayerParado_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerParado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2090
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be45b611010c647d0800000000000000
+      internalID: -2934446931941042965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_1
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2090
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb43d9d579e4880800000000000000
+      internalID: -8624789808042689038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_2
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2090
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb05a4f35792f120800000000000000
+      internalID: 2446183934458137590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_3
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2090
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc7acaab29e24af0800000000000000
+      internalID: -413511842006401839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_4
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2090
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e249d7b5418d94b60800000000000000
+      internalID: 7730947817304069166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_5
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2090
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6583c11bc5233a0800000000000000
+      internalID: -6687180580939344202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c14012e40dcb0080800000000000000
+      internalID: -9220050391254679098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1672
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7159a4f838a6cfa10800000000000000
+      internalID: 1944546252394501399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_8
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1672
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd3c75024f431400800000000000000
+      internalID: 293665545687678455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_9
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1672
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa10b30555a34930800000000000000
+      internalID: 4126323468154182318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_10
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1672
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed61d9441b3bce80800000000000000
+      internalID: -8157361341727674905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_11
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1672
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4aea0a750539d50800000000000000
+      internalID: 6742821404391941333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040c8bf732b7d4bb0800000000000000
+      internalID: -4950165023013420992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1254
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34413944a6888c4d0800000000000000
+      internalID: -3114089152328297405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1254
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfe72ed55a9305f0800000000000000
+      internalID: -791619415897018409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1254
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73a246405572fd00800000000000000
+      internalID: 1004994654493647738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_16
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1254
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5125e50042ddfb3c0800000000000000
+      internalID: -4341508369067126251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_17
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1254
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9823a783a6cd23090800000000000000
+      internalID: -8056134434640219511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 836
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff7afba32ceacdd0800000000000000
+      internalID: -2464898208078594058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 836
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435abbe3297693720800000000000000
+      internalID: 2826404118967067956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 836
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb81b497615db4c80800000000000000
+      internalID: -8337335992645379908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_21
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 836
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0d75562566a0bf0800000000000000
+      internalID: -357360716348927788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_22
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 836
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ac11554f9ae51a0800000000000000
+      internalID: -6818825918928008662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_23
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 836
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8058c42585bd990800000000000000
+      internalID: -7360192055512594227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e51934e47fbea7d0800000000000000
+      internalID: -2905174200841333272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_25
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 418
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1df718f326c5cd0800000000000000
+      internalID: -2568069662612926034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 418
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d6a6fbc81a020a0800000000000000
+      internalID: -6908344202507424431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_27
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 418
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f324eb8c625d7f60800000000000000
+      internalID: 8033667936455762932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_28
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 418
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2982ac6d9fba5590800000000000000
+      internalID: -7684619131300968150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_29
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 418
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a9aadb6c17ba00800000000000000
+      internalID: 772117110672957833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49fc46f63c12c6c0800000000000000
+      internalID: -4124703286331901617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734c7161872247b80800000000000000
+      internalID: -8398049505977056201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_32
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3c65600d017bc00800000000000000
+      internalID: 916219534838776775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_33
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 0
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4fefce57c677c70800000000000000
+      internalID: 8968756436674737363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_34
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 0
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe61c3d51de6b170800000000000000
+      internalID: 8193997250049961724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerParado_35
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 0
+        width: 426
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ab3692fbd7206b0800000000000000
+      internalID: -5331560748866618721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a63896de0bb05c648a81693b857dcb72
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":426.0,"y":418.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PlayerParado_0: -2934446931941042965
+      PlayerParado_1: -8624789808042689038
+      PlayerParado_10: -8157361341727674905
+      PlayerParado_11: 6742821404391941333
+      PlayerParado_12: -4950165023013420992
+      PlayerParado_13: -3114089152328297405
+      PlayerParado_14: -791619415897018409
+      PlayerParado_15: 1004994654493647738
+      PlayerParado_16: -4341508369067126251
+      PlayerParado_17: -8056134434640219511
+      PlayerParado_18: -2464898208078594058
+      PlayerParado_19: 2826404118967067956
+      PlayerParado_2: 2446183934458137590
+      PlayerParado_20: -8337335992645379908
+      PlayerParado_21: -357360716348927788
+      PlayerParado_22: -6818825918928008662
+      PlayerParado_23: -7360192055512594227
+      PlayerParado_24: -2905174200841333272
+      PlayerParado_25: -2568069662612926034
+      PlayerParado_26: -6908344202507424431
+      PlayerParado_27: 8033667936455762932
+      PlayerParado_28: -7684619131300968150
+      PlayerParado_29: 772117110672957833
+      PlayerParado_3: -413511842006401839
+      PlayerParado_30: -4124703286331901617
+      PlayerParado_31: -8398049505977056201
+      PlayerParado_32: 916219534838776775
+      PlayerParado_33: 8968756436674737363
+      PlayerParado_34: 8193997250049961724
+      PlayerParado_35: -5331560748866618721
+      PlayerParado_4: 7730947817304069166
+      PlayerParado_5: -6687180580939344202
+      PlayerParado_6: -9220050391254679098
+      PlayerParado_7: 1944546252394501399
+      PlayerParado_8: 293665545687678455
+      PlayerParado_9: 4126323468154182318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

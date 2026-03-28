@@ -380,6 +380,7 @@ MonoBehaviour:
   floorLayer:
     serializedVersion: 2
     m_Bits: 55
+  anim: {fileID: 1323757063}
 --- !u!50 &1200031159
 Rigidbody2D:
   serializedVersion: 5
@@ -503,7 +504,7 @@ Animator:
   m_GameObject: {fileID: 1323757061}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 25e8e57bfa0cbb64c935a8150a02a2b2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -564,7 +565,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
+  m_Sprite: {fileID: -2934446931941042965, guid: c0ee7581054af5a41a824878c76f0b26, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

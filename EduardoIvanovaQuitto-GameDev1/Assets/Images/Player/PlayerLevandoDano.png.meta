@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 4deba93328d75594f942f798cf823801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6070670199908294866
+    second: PlayerLevandoDano_0
+  - first:
+      213: 3917971505730511017
+    second: PlayerLevandoDano_1
+  - first:
+      213: -7479407735494025227
+    second: PlayerLevandoDano_2
+  - first:
+      213: -7754276043486654695
+    second: PlayerLevandoDano_3
+  - first:
+      213: 1089952775181005637
+    second: PlayerLevandoDano_4
+  - first:
+      213: -8484931299114480477
+    second: PlayerLevandoDano_5
+  - first:
+      213: -1368491036497029895
+    second: PlayerLevandoDano_6
+  - first:
+      213: -514728130979244109
+    second: PlayerLevandoDano_7
+  - first:
+      213: -9085253464241705136
+    second: PlayerLevandoDano_8
+  - first:
+      213: 7540195961202753588
+    second: PlayerLevandoDano_9
+  - first:
+      213: 5434854681787611771
+    second: PlayerLevandoDano_10
+  - first:
+      213: -4302330451366661274
+    second: PlayerLevandoDano_11
+  - first:
+      213: 6729477291718147802
+    second: PlayerLevandoDano_12
+  - first:
+      213: -6574429593901182238
+    second: PlayerLevandoDano_13
+  - first:
+      213: -8132648385939974380
+    second: PlayerLevandoDano_14
+  - first:
+      213: 6517257279241466334
+    second: PlayerLevandoDano_15
+  - first:
+      213: 8424116022625950089
+    second: PlayerLevandoDano_16
+  - first:
+      213: 1580087421471942660
+    second: PlayerLevandoDano_17
+  - first:
+      213: 6612309674683866313
+    second: PlayerLevandoDano_18
+  - first:
+      213: -2707506354361582202
+    second: PlayerLevandoDano_19
+  - first:
+      213: -4267315915366026974
+    second: PlayerLevandoDano_20
+  - first:
+      213: 551069838007342767
+    second: PlayerLevandoDano_21
+  - first:
+      213: 6990283557056219103
+    second: PlayerLevandoDano_22
+  - first:
+      213: 4474218247124318579
+    second: PlayerLevandoDano_23
+  - first:
+      213: 6720134724969841755
+    second: PlayerLevandoDano_24
+  - first:
+      213: -2948572541308461692
+    second: PlayerLevandoDano_25
+  - first:
+      213: -7739101244359279364
+    second: PlayerLevandoDano_26
+  - first:
+      213: 7915385164739119909
+    second: PlayerLevandoDano_27
+  - first:
+      213: 1717370449981457272
+    second: PlayerLevandoDano_28
+  - first:
+      213: -7175220221032134168
+    second: PlayerLevandoDano_29
+  - first:
+      213: 2981003524719496967
+    second: PlayerLevandoDano_30
+  - first:
+      213: -8026049989050712664
+    second: PlayerLevandoDano_31
+  - first:
+      213: -4123673635430904733
+    second: PlayerLevandoDano_32
+  - first:
+      213: 6100197882006879382
+    second: PlayerLevandoDano_33
+  - first:
+      213: 469089725767279916
+    second: PlayerLevandoDano_34
+  - first:
+      213: -6446800670936540199
+    second: PlayerLevandoDano_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerLevandoDano_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2161
+        width: 391
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f9ae1fd95a0cba0800000000000000
+      internalID: -6070670199908294866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2161
+        width: 363
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a06b2f735e6f5630800000000000000
+      internalID: 3917971505730511017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_2
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2161
+        width: 358
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffd19bca4ec33890800000000000000
+      internalID: -7479407735494025227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_3
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2161
+        width: 352
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f08a9b507436490800000000000000
+      internalID: -7754276043486654695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_4
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 2161
+        width: 352
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5437d92364a402f00800000000000000
+      internalID: 1089952775181005637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_5
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2161
+        width: 366
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac00b440f77f3a80800000000000000
+      internalID: -8484931299114480477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1733
+        width: 382
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4d94327a4220de0800000000000000
+      internalID: -1368491036497029895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1733
+        width: 387
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7d415fd715bd8f0800000000000000
+      internalID: -514728130979244109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1733
+        width: 388
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6c792c12bae180800000000000000
+      internalID: -9085253464241705136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_9
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1733
+        width: 391
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430435ce64824a860800000000000000
+      internalID: 7540195961202753588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_10
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1733
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ab1d9b98b7c6b40800000000000000
+      internalID: 5434854681787611771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_11
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1733
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b1fbcf3d0b44c0800000000000000
+      internalID: -4302330451366661274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1305
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adefae841f7e36d50800000000000000
+      internalID: 6729477291718147802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_13
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1305
+        width: 391
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e254befd1fe2c4a0800000000000000
+      internalID: -6574429593901182238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_14
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1305
+        width: 391
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417d4e0b167032f80800000000000000
+      internalID: -8132648385939974380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1305
+        width: 388
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1340f27f2f17a50800000000000000
+      internalID: 6517257279241466334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_16
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1305
+        width: 387
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989db43c3e878e470800000000000000
+      internalID: 8424116022625950089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1305
+        width: 358
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e5ee53299de510800000000000000
+      internalID: 1580087421471942660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 877
+        width: 358
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc19689d94a3cb50800000000000000
+      internalID: 6612309674683866313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_19
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 877
+        width: 356
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d3a21d0510d6ad0800000000000000
+      internalID: -2707506354361582202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_20
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 877
+        width: 356
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221bc30c8c277c4c0800000000000000
+      internalID: -4267315915366026974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_21
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 877
+        width: 350
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa61cd4191bc5a700800000000000000
+      internalID: 551069838007342767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_22
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 877
+        width: 350
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd70799ebd9720160800000000000000
+      internalID: 6990283557056219103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_23
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 877
+        width: 360
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3797a635acd971e30800000000000000
+      internalID: 4474218247124318579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 449
+        width: 383
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5448947de6b24d50800000000000000
+      internalID: 6720134724969841755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_25
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 449
+        width: 391
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d96d855e09417d0800000000000000
+      internalID: -2948572541308461692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_26
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 449
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc7e29fb60399490800000000000000
+      internalID: -7739101244359279364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_27
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 449
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b0cacaed819dd60800000000000000
+      internalID: 7915385164739119909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_28
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 449
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873c5e2435355d710800000000000000
+      internalID: 1717370449981457272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_29
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 449
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e90e24993f7c6c90800000000000000
+      internalID: -7175220221032134168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 21
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fc71569e6ae5920800000000000000
+      internalID: 2981003524719496967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 21
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adba1d0f0ebd9090800000000000000
+      internalID: -8026049989050712664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_32
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 21
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c4f7e3da4c5c6c0800000000000000
+      internalID: -4123673635430904733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_33
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 21
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c3c9847a148a450800000000000000
+      internalID: 6100197882006879382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_34
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 21
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e428ce9a828600800000000000000
+      internalID: 469089725767279916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerLevandoDano_35
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 21
+        width: 391
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbd31742fc5886a0800000000000000
+      internalID: -6446800670936540199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayerLevandoDano_0: -6070670199908294866
+      PlayerLevandoDano_1: 3917971505730511017
+      PlayerLevandoDano_10: 5434854681787611771
+      PlayerLevandoDano_11: -4302330451366661274
+      PlayerLevandoDano_12: 6729477291718147802
+      PlayerLevandoDano_13: -6574429593901182238
+      PlayerLevandoDano_14: -8132648385939974380
+      PlayerLevandoDano_15: 6517257279241466334
+      PlayerLevandoDano_16: 8424116022625950089
+      PlayerLevandoDano_17: 1580087421471942660
+      PlayerLevandoDano_18: 6612309674683866313
+      PlayerLevandoDano_19: -2707506354361582202
+      PlayerLevandoDano_2: -7479407735494025227
+      PlayerLevandoDano_20: -4267315915366026974
+      PlayerLevandoDano_21: 551069838007342767
+      PlayerLevandoDano_22: 6990283557056219103
+      PlayerLevandoDano_23: 4474218247124318579
+      PlayerLevandoDano_24: 6720134724969841755
+      PlayerLevandoDano_25: -2948572541308461692
+      PlayerLevandoDano_26: -7739101244359279364
+      PlayerLevandoDano_27: 7915385164739119909
+      PlayerLevandoDano_28: 1717370449981457272
+      PlayerLevandoDano_29: -7175220221032134168
+      PlayerLevandoDano_3: -7754276043486654695
+      PlayerLevandoDano_30: 2981003524719496967
+      PlayerLevandoDano_31: -8026049989050712664
+      PlayerLevandoDano_32: -4123673635430904733
+      PlayerLevandoDano_33: 6100197882006879382
+      PlayerLevandoDano_34: 469089725767279916
+      PlayerLevandoDano_35: -6446800670936540199
+      PlayerLevandoDano_4: 1089952775181005637
+      PlayerLevandoDano_5: -8484931299114480477
+      PlayerLevandoDano_6: -1368491036497029895
+      PlayerLevandoDano_7: -514728130979244109
+      PlayerLevandoDano_8: -9085253464241705136
+      PlayerLevandoDano_9: 7540195961202753588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

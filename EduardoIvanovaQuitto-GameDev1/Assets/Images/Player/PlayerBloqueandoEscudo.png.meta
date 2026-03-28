@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 835210fd4d598c34399eeb8b91d7b007
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8811873784282595818
+    second: PlayerBloqueandoEscudo_0
+  - first:
+      213: 815010344463103426
+    second: PlayerBloqueandoEscudo_1
+  - first:
+      213: 3331027251021080626
+    second: PlayerBloqueandoEscudo_2
+  - first:
+      213: -4314545223835596377
+    second: PlayerBloqueandoEscudo_3
+  - first:
+      213: 4119745142341457737
+    second: PlayerBloqueandoEscudo_4
+  - first:
+      213: 505858251759781789
+    second: PlayerBloqueandoEscudo_5
+  - first:
+      213: 4549837435428673220
+    second: PlayerBloqueandoEscudo_6
+  - first:
+      213: -6325802693573344172
+    second: PlayerBloqueandoEscudo_7
+  - first:
+      213: -7504144796802787376
+    second: PlayerBloqueandoEscudo_8
+  - first:
+      213: 6376190835510088265
+    second: PlayerBloqueandoEscudo_9
+  - first:
+      213: 1454930184664830060
+    second: PlayerBloqueandoEscudo_10
+  - first:
+      213: 2205598301872355500
+    second: PlayerBloqueandoEscudo_11
+  - first:
+      213: 5055395220630810320
+    second: PlayerBloqueandoEscudo_12
+  - first:
+      213: 466590996781847476
+    second: PlayerBloqueandoEscudo_13
+  - first:
+      213: -8787208616450126245
+    second: PlayerBloqueandoEscudo_14
+  - first:
+      213: 3723125669464255159
+    second: PlayerBloqueandoEscudo_15
+  - first:
+      213: -5652446745798652395
+    second: PlayerBloqueandoEscudo_16
+  - first:
+      213: 1059343982018576225
+    second: PlayerBloqueandoEscudo_17
+  - first:
+      213: -4734220337175538037
+    second: PlayerBloqueandoEscudo_18
+  - first:
+      213: -1985726374900171598
+    second: PlayerBloqueandoEscudo_19
+  - first:
+      213: -7042162741114145007
+    second: PlayerBloqueandoEscudo_20
+  - first:
+      213: -4172359663987533229
+    second: PlayerBloqueandoEscudo_21
+  - first:
+      213: 5519865329911417129
+    second: PlayerBloqueandoEscudo_22
+  - first:
+      213: -4430101721523920596
+    second: PlayerBloqueandoEscudo_23
+  - first:
+      213: -1556009148693900738
+    second: PlayerBloqueandoEscudo_24
+  - first:
+      213: -8265933921284211003
+    second: PlayerBloqueandoEscudo_25
+  - first:
+      213: -5922035646300339144
+    second: PlayerBloqueandoEscudo_26
+  - first:
+      213: 7950872002025588661
+    second: PlayerBloqueandoEscudo_27
+  - first:
+      213: -8769666192317092633
+    second: PlayerBloqueandoEscudo_28
+  - first:
+      213: 1149187229672871675
+    second: PlayerBloqueandoEscudo_29
+  - first:
+      213: -6155357476713465009
+    second: PlayerBloqueandoEscudo_30
+  - first:
+      213: 1291275450197999997
+    second: PlayerBloqueandoEscudo_31
+  - first:
+      213: 3101319192688701968
+    second: PlayerBloqueandoEscudo_32
+  - first:
+      213: 2376452560478164388
+    second: PlayerBloqueandoEscudo_33
+  - first:
+      213: 2894786845069741328
+    second: PlayerBloqueandoEscudo_34
+  - first:
+      213: -7424528131792373187
+    second: PlayerBloqueandoEscudo_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1970
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1cdbdf4801a4a70800000000000000
+      internalID: 8811873784282595818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1970
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5fdf5179f7f4b00800000000000000
+      internalID: 815010344463103426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1970
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238e142e2af2a3e20800000000000000
+      internalID: 3331027251021080626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_3
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1970
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9cbe57af7af14c0800000000000000
+      internalID: -4314545223835596377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_4
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1970
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947576e21664c2930800000000000000
+      internalID: 4119745142341457737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_5
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1970
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9787da566b250700800000000000000
+      internalID: 505858251759781789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1576
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6108c9a05442f30800000000000000
+      internalID: 4549837435428673220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1576
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540a5a37fb3638a0800000000000000
+      internalID: -6325802693573344172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_8
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1576
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d75973e01cebd790800000000000000
+      internalID: -7504144796802787376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_9
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1576
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9421eaa48c7cc7850800000000000000
+      internalID: 6376190835510088265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_10
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1576
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d0fd5b43f03410800000000000000
+      internalID: 1454930184664830060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_11
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1576
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca87e4448fbdb9e10800000000000000
+      internalID: 2205598301872355500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de28e42b2f582640800000000000000
+      internalID: 5055395220630810320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1182
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d39a1a0aa97600800000000000000
+      internalID: 466590996781847476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1182
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0d39e1509d0680800000000000000
+      internalID: -8787208616450126245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_15
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1182
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba2e8602133ba330800000000000000
+      internalID: 3723125669464255159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_16
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1182
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecbd4f1a97e81b0800000000000000
+      internalID: -5652446745798652395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_17
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1182
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f3a2f2dbb83be00800000000000000
+      internalID: 1059343982018576225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86d832bfabac4eb0800000000000000
+      internalID: -4734220337175538037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 788
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc73f202684174e0800000000000000
+      internalID: -1985726374900171598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 788
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11776654c46354e90800000000000000
+      internalID: -7042162741114145007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_21
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 788
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35adad0edfcc816c0800000000000000
+      internalID: -4172359663987533229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_22
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 788
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9294d55a5408a9c40800000000000000
+      internalID: 5519865329911417129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_23
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 788
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2168b9b4fd1582c0800000000000000
+      internalID: -4430101721523920596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3297d06ce1f76ae0800000000000000
+      internalID: -1556009148693900738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_25
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 394
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceb005b4e0894d80800000000000000
+      internalID: -8265933921284211003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_26
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 394
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834411bb4f3b0dda0800000000000000
+      internalID: -5922035646300339144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_27
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 394
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b78557d5fb275e60800000000000000
+      internalID: 7950872002025588661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_28
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 394
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecef20df03eb4680800000000000000
+      internalID: -8769666192317092633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_29
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 394
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6111d52bbb2ff00800000000000000
+      internalID: 1149187229672871675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf2f6ccf6c39aa0800000000000000
+      internalID: -6155357476713465009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d710c343e288be110800000000000000
+      internalID: 1291275450197999997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_32
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012bf4fcf591a0b20800000000000000
+      internalID: 3101319192688701968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_33
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 0
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55ed4430bdaf020800000000000000
+      internalID: 2376452560478164388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_34
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d0bd06c495c2820800000000000000
+      internalID: 2894786845069741328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerBloqueandoEscudo_35
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 0
+        width: 438
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3afe9f3007c6f890800000000000000
+      internalID: -7424528131792373187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a9a9956c020b6284a8ee5ab0288a97cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":6.0},"gridSpriteSize":{"x":438.0,"y":394.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PlayerBloqueandoEscudo_0: 8811873784282595818
+      PlayerBloqueandoEscudo_1: 815010344463103426
+      PlayerBloqueandoEscudo_10: 1454930184664830060
+      PlayerBloqueandoEscudo_11: 2205598301872355500
+      PlayerBloqueandoEscudo_12: 5055395220630810320
+      PlayerBloqueandoEscudo_13: 466590996781847476
+      PlayerBloqueandoEscudo_14: -8787208616450126245
+      PlayerBloqueandoEscudo_15: 3723125669464255159
+      PlayerBloqueandoEscudo_16: -5652446745798652395
+      PlayerBloqueandoEscudo_17: 1059343982018576225
+      PlayerBloqueandoEscudo_18: -4734220337175538037
+      PlayerBloqueandoEscudo_19: -1985726374900171598
+      PlayerBloqueandoEscudo_2: 3331027251021080626
+      PlayerBloqueandoEscudo_20: -7042162741114145007
+      PlayerBloqueandoEscudo_21: -4172359663987533229
+      PlayerBloqueandoEscudo_22: 5519865329911417129
+      PlayerBloqueandoEscudo_23: -4430101721523920596
+      PlayerBloqueandoEscudo_24: -1556009148693900738
+      PlayerBloqueandoEscudo_25: -8265933921284211003
+      PlayerBloqueandoEscudo_26: -5922035646300339144
+      PlayerBloqueandoEscudo_27: 7950872002025588661
+      PlayerBloqueandoEscudo_28: -8769666192317092633
+      PlayerBloqueandoEscudo_29: 1149187229672871675
+      PlayerBloqueandoEscudo_3: -4314545223835596377
+      PlayerBloqueandoEscudo_30: -6155357476713465009
+      PlayerBloqueandoEscudo_31: 1291275450197999997
+      PlayerBloqueandoEscudo_32: 3101319192688701968
+      PlayerBloqueandoEscudo_33: 2376452560478164388
+      PlayerBloqueandoEscudo_34: 2894786845069741328
+      PlayerBloqueandoEscudo_35: -7424528131792373187
+      PlayerBloqueandoEscudo_4: 4119745142341457737
+      PlayerBloqueandoEscudo_5: 505858251759781789
+      PlayerBloqueandoEscudo_6: 4549837435428673220
+      PlayerBloqueandoEscudo_7: -6325802693573344172
+      PlayerBloqueandoEscudo_8: -7504144796802787376
+      PlayerBloqueandoEscudo_9: 6376190835510088265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
