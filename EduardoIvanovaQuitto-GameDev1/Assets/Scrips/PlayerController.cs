@@ -11,24 +11,44 @@ public class PlayerController : MonoBehaviour
     public LayerMask floorLayer;
     public Animator anim;
     private bool grounded = false;
+    public float attackDuration = 1.0f;
+    public float airAttackDuration = 1.0f;
+    public GameObject attackFX, attackHitFX, hitFX, deathFX;
+    public Transform attackPoint;
 
     private Vector2 moveInput;
+    private bool locked = false;
 
 
     public void Move(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>();
         anim.SetBool("IsMoving", moveInput.x != 0);
+        transform.localScale = new(
+            moveInput.x > 0 ? 1 : moveInput.x < 0 ? -1 : transform.localScale.x, 1);
     }
 
     public void Jump(InputAction.CallbackContext context)
     {
-        if(context.started && grounded)
+        if(!locked && context.started && grounded)
         {
             anim.SetTrigger("Jump");
             rig.linearVelocity = new(rig.linearVelocity.x, jumpForce);
         }
     }
+
+    public void AttackInput(InputAction.CallbackContext context)
+    {
+        if (!locked && context.started)
+        {
+            anim.SetTrigger("Attack");
+            locked = true;
+            if (attackFX) Instantiate(attackFX, attackPoint.position, attackPoint.rotation);
+            Invoke(nameof(Unlock), grounded ? attackDuration : airAttackDuration);
+        }
+    }
+
+    private void Unlock() => locked = false;
 
     private void GroundCheck()
     {
@@ -53,6 +73,8 @@ public class PlayerController : MonoBehaviour
     public void FixedUpdate()
     {
         GroundCheck();
-        rig.linearVelocity = new Vector2(moveInput.x * speed, rig.linearVelocity.y);
+        rig.linearVelocity = new Vector2(
+            locked && grounded ? 0 : speed * moveInput.x,
+            rig.linearVelocity.y);
     }
 }
