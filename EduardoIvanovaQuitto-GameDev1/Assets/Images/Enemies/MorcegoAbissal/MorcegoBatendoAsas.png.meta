@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 9575820b863ad7847990bdbe429c4514
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6712776726164285230
+    second: MorcegoBatendoAsas_0
+  - first:
+      213: 8516249991984652753
+    second: MorcegoBatendoAsas_1
+  - first:
+      213: 130663736090745536
+    second: MorcegoBatendoAsas_2
+  - first:
+      213: 355064014883337885
+    second: MorcegoBatendoAsas_3
+  - first:
+      213: 353723727624602142
+    second: MorcegoBatendoAsas_4
+  - first:
+      213: 7909328304624172491
+    second: MorcegoBatendoAsas_5
+  - first:
+      213: -5381571101256114606
+    second: MorcegoBatendoAsas_6
+  - first:
+      213: -5663513154246416879
+    second: MorcegoBatendoAsas_7
+  - first:
+      213: 5034297427316332761
+    second: MorcegoBatendoAsas_8
+  - first:
+      213: 6414625505245313334
+    second: MorcegoBatendoAsas_9
+  - first:
+      213: 7361634633767667452
+    second: MorcegoBatendoAsas_10
+  - first:
+      213: 6486194613932564051
+    second: MorcegoBatendoAsas_11
+  - first:
+      213: 2207351456019848188
+    second: MorcegoBatendoAsas_12
+  - first:
+      213: 4675782418260428421
+    second: MorcegoBatendoAsas_13
+  - first:
+      213: 9008767878147748259
+    second: MorcegoBatendoAsas_14
+  - first:
+      213: 4094929406325638996
+    second: MorcegoBatendoAsas_15
+  - first:
+      213: -3236944412457791144
+    second: MorcegoBatendoAsas_16
+  - first:
+      213: 6562038036231990523
+    second: MorcegoBatendoAsas_17
+  - first:
+      213: 3615847304164321088
+    second: MorcegoBatendoAsas_18
+  - first:
+      213: 6206103094036755606
+    second: MorcegoBatendoAsas_19
+  - first:
+      213: 8118506246511566239
+    second: MorcegoBatendoAsas_20
+  - first:
+      213: 1740909530262413579
+    second: MorcegoBatendoAsas_21
+  - first:
+      213: 6681743243204499496
+    second: MorcegoBatendoAsas_22
+  - first:
+      213: -1172910559063742841
+    second: MorcegoBatendoAsas_23
+  - first:
+      213: 2362193029835185725
+    second: MorcegoBatendoAsas_24
+  - first:
+      213: 2753460243404792476
+    second: MorcegoBatendoAsas_25
+  - first:
+      213: 2285986478023972946
+    second: MorcegoBatendoAsas_26
+  - first:
+      213: -697823111669417152
+    second: MorcegoBatendoAsas_27
+  - first:
+      213: 2121250131439264730
+    second: MorcegoBatendoAsas_28
+  - first:
+      213: 7503743723696242288
+    second: MorcegoBatendoAsas_29
+  - first:
+      213: 5301528575597851933
+    second: MorcegoBatendoAsas_30
+  - first:
+      213: -4544597875865984996
+    second: MorcegoBatendoAsas_31
+  - first:
+      213: -805565288447458419
+    second: MorcegoBatendoAsas_32
+  - first:
+      213: -4981539393610875074
+    second: MorcegoBatendoAsas_33
+  - first:
+      213: 3688731899234084752
+    second: MorcegoBatendoAsas_34
+  - first:
+      213: 6738814767489531141
+    second: MorcegoBatendoAsas_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2750
+        width: 596
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8d774222d67d2a0800000000000000
+      internalID: -6712776726164285230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2756
+        width: 660
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d12ba62f3ccf2670800000000000000
+      internalID: 8516249991984652753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_2
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2764
+        width: 732
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad6b6c9f530d100800000000000000
+      internalID: 130663736090745536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_3
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 2681
+        width: 619
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9635af17d07de400800000000000000
+      internalID: 355064014883337885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_4
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 2631
+        width: 450
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1201bd2bdda8e400800000000000000
+      internalID: 353723727624602142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_5
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 2636
+        width: 354
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdf019003493cd60800000000000000
+      internalID: 7909328304624172491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2130
+        width: 398
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e1f10a891d055b0800000000000000
+      internalID: -5381571101256114606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2232
+        width: 548
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116e364fac82761b0800000000000000
+      internalID: -5663513154246416879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_8
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2226
+        width: 607
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d85ad856da6dd540800000000000000
+      internalID: 5034297427316332761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_9
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 2222
+        width: 522
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639be4f29e3550950800000000000000
+      internalID: 6414625505245313334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_10
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 2215
+        width: 441
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64fef12b7c92660800000000000000
+      internalID: 7361634633767667452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_11
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 2214
+        width: 483
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e9083d2a7930a50800000000000000
+      internalID: 6486194613932564051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1691
+        width: 604
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1186447612ae10800000000000000
+      internalID: 2207351456019848188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1706
+        width: 735
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5860e670657b3e040800000000000000
+      internalID: 4675782418260428421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_14
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1682
+        width: 730
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a132f897a2950d70800000000000000
+      internalID: 9008767878147748259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_15
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1585
+        width: 465
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4574754699c14d830800000000000000
+      internalID: 4094929406325638996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_16
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 1580
+        width: 391
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85194c9f4301413d0800000000000000
+      internalID: -3236944412457791144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_17
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 1602
+        width: 383
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca538a3da011b50800000000000000
+      internalID: 6562038036231990523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1155
+        width: 512
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047a4ce27f11e2230800000000000000
+      internalID: 3615847304164321088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_19
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1184
+        width: 582
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6947387f1e1802650800000000000000
+      internalID: 6206103094036755606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_20
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1179
+        width: 613
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d9c12ea6abaa070800000000000000
+      internalID: 8118506246511566239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_21
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1169
+        width: 455
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0122697ef3f82810800000000000000
+      internalID: 1740909530262413579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_22
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1163
+        width: 428
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828129b04125abc50800000000000000
+      internalID: 6681743243204499496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_23
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 1163
+        width: 527
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78663b59f0cf8bfe0800000000000000
+      internalID: -1172910559063742841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 639
+        width: 591
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eda329b0238c020800000000000000
+      internalID: 2362193029835185725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_25
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 648
+        width: 709
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92ad4fb081463620800000000000000
+      internalID: 2753460243404792476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_26
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 656
+        width: 734
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25817ff079479bf10800000000000000
+      internalID: 2285986478023972946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_27
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 578
+        width: 619
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bf2e0c395d056f0800000000000000
+      internalID: -697823111669417152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_28
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 533
+        width: 481
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3203471c1307d10800000000000000
+      internalID: 2121250131439264730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_29
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 533
+        width: 359
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e3b700927a22860800000000000000
+      internalID: 7503743723696242288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 69
+        width: 483
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15b71b9620d29940800000000000000
+      internalID: 5301528575597851933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_31
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 129
+        width: 550
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10630a6f485ee0c0800000000000000
+      internalID: -4544597875865984996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_32
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 130
+        width: 599
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8344b263ae02d4f0800000000000000
+      internalID: -805565288447458419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_33
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 117
+        width: 453
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f753990540edab0800000000000000
+      internalID: -4981539393610875074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_34
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 111
+        width: 427
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ef7d5e12013330800000000000000
+      internalID: 3688731899234084752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoBatendoAsas_35
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 111
+        width: 552
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dbe57c354158d50800000000000000
+      internalID: 6738814767489531141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MorcegoBatendoAsas_0: -6712776726164285230
+      MorcegoBatendoAsas_1: 8516249991984652753
+      MorcegoBatendoAsas_10: 7361634633767667452
+      MorcegoBatendoAsas_11: 6486194613932564051
+      MorcegoBatendoAsas_12: 2207351456019848188
+      MorcegoBatendoAsas_13: 4675782418260428421
+      MorcegoBatendoAsas_14: 9008767878147748259
+      MorcegoBatendoAsas_15: 4094929406325638996
+      MorcegoBatendoAsas_16: -3236944412457791144
+      MorcegoBatendoAsas_17: 6562038036231990523
+      MorcegoBatendoAsas_18: 3615847304164321088
+      MorcegoBatendoAsas_19: 6206103094036755606
+      MorcegoBatendoAsas_2: 130663736090745536
+      MorcegoBatendoAsas_20: 8118506246511566239
+      MorcegoBatendoAsas_21: 1740909530262413579
+      MorcegoBatendoAsas_22: 6681743243204499496
+      MorcegoBatendoAsas_23: -1172910559063742841
+      MorcegoBatendoAsas_24: 2362193029835185725
+      MorcegoBatendoAsas_25: 2753460243404792476
+      MorcegoBatendoAsas_26: 2285986478023972946
+      MorcegoBatendoAsas_27: -697823111669417152
+      MorcegoBatendoAsas_28: 2121250131439264730
+      MorcegoBatendoAsas_29: 7503743723696242288
+      MorcegoBatendoAsas_3: 355064014883337885
+      MorcegoBatendoAsas_30: 5301528575597851933
+      MorcegoBatendoAsas_31: -4544597875865984996
+      MorcegoBatendoAsas_32: -805565288447458419
+      MorcegoBatendoAsas_33: -4981539393610875074
+      MorcegoBatendoAsas_34: 3688731899234084752
+      MorcegoBatendoAsas_35: 6738814767489531141
+      MorcegoBatendoAsas_4: 353723727624602142
+      MorcegoBatendoAsas_5: 7909328304624172491
+      MorcegoBatendoAsas_6: -5381571101256114606
+      MorcegoBatendoAsas_7: -5663513154246416879
+      MorcegoBatendoAsas_8: 5034297427316332761
+      MorcegoBatendoAsas_9: 6414625505245313334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
