@@ -61,7 +61,7 @@ public class PlayerController : MonoBehaviour
         moveInput = context.ReadValue<Vector2>();
         anim.SetBool("IsWalking", moveInput.x != 0);
         transform.localScale = new(
-            moveInput.x > 0 ? 1 : moveInput.x < 0 ? -1 : transform.localScale.x, 1);
+            moveInput.x > 0 ? 0.2f : moveInput.x < 0 ? -0.2f : transform.localScale.x, 0.2f);
     }
 
     public void JumpInput(InputAction.CallbackContext context)

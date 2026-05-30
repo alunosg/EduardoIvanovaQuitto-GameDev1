@@ -1,0 +1,2088 @@
+fileFormatVersion: 2
+guid: 21ed138eb62b31540beb9a7aab04ea84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8128277317180650068
+    second: textura_caverna_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: textura_caverna_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 390
+        width: 152
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad059178de823f80800000000000000
+      internalID: -8128277317180650068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 201
+        width: 157
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e63940501d42e48b01e88baa1bf3c6
+      internalID: 97114098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 106
+        width: 156
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f510e6ac17855e47989d4a5107f6f53
+      internalID: -637937144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c490af24e681e2c4898b3a751635edd7
+      internalID: 493699851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 10
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa580fc95259af4b90e5634db7cb833
+      internalID: -1788433443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995a4f1dade6af74a87ece1489f9cb59
+      internalID: 105938013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 102
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347db9b4759c9664d800f064a786c423
+      internalID: 1451953315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 13
+        width: 72
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1c6683baf51bd4cb7292f6f6a261ee
+      internalID: 675311409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 189
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5414d10e7e8a84a950ac55e9038b93
+      internalID: -389752506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 170
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6590c35cc965d4e9b3d3f57fee1c0a
+      internalID: 1632567363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 216
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac37a6d2c667c344ae2dc2e8cfd2500
+      internalID: -2132258832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 261
+        width: 115
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b80e7c3332344391c9a2fcabad106
+      internalID: 1086042015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 344
+        width: 140
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c79efb1f44aab41a8cb6a8441adcee
+      internalID: -894698725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 388
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d6e352ec692344c80ba16085c45a20
+      internalID: -491499383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 388
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1033e95c13a1fb4293288e0417f2285
+      internalID: -503142400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 444
+        width: 142
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685cdf4ae48196f48a913f97debb41b5
+      internalID: -9866523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_16
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 503
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c4b49577e32da48a99f04a483d8faf
+      internalID: -1067758547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_17
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 471
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacdcade1acf8c5458e07ff4ca61e3fd
+      internalID: 211181253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 349
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72d20ae28d34f47b5d55bb8099a57f
+      internalID: -1816384023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 389
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6664d3cbf8744c41bd8701e56d1829b
+      internalID: -1695971071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_20
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 349
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f642cdda54a51b4382b99538042401b
+      internalID: 1782913976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 190
+        width: 154
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc26ed04fc67914e92860ca5fe608a6
+      internalID: -1253491332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_22
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 150
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4504a4a996728354cbc37611f9901dc6
+      internalID: 1675251438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 11
+        width: 151
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf964073659e5c047b1c329b99b46dd6
+      internalID: -1132901832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 93
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed20fcc65b2ea4a9d18be1d85e4e02
+      internalID: 565612470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 7
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45929be3bc84e9d45a42ccdb1213a902
+      internalID: -18312433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 10
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df617148a06f5249b15da04e6500287
+      internalID: 2129378856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_27
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 45
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41952ce0916d0244bd53111629d0359
+      internalID: 983656302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_28
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 5
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1283fe9da8c04b45adf862e7e8b578b
+      internalID: -1619672017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_29
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 44
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff022a69d980724f9ecc8c324967f30
+      internalID: -2058136075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_30
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 9
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ef5520861c3f242aa514c9a7fdc178
+      internalID: -1220573961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 90
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70705aa1031cad144b70924a25c679a0
+      internalID: -2112552243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_32
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 119
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e24035c83beee5478ce1fc19f4f196c
+      internalID: 1236526912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 90
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd298494ddf86643a5686111d6ce476
+      internalID: 1347023919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 192
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc626fe7bdf14a4ea3987f58f1b8a21
+      internalID: 444438628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_35
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 260
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5f2c59964bc3548af1c49e82e0ff38
+      internalID: 1591532397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_36
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 196
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e15aac05eef14998c68c9a5a7b615
+      internalID: -961474841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_37
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 413
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b001ec1764bc144a046542388ab4dd
+      internalID: 869110544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_38
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 351
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c81b82468290f642aae778722e7232c
+      internalID: 281316970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 464
+        width: 147
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b83a08aa1958a2429a1011476a338d6
+      internalID: -1043617987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_40
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 449
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76397f093e940cb4ca1c87abbd87b28b
+      internalID: 1742365215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_41
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 353
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0aa98e6c531fa419ea8a2ecb0df623
+      internalID: -1433614775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 350
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082ed4dcc6921246837dac3f9e59cdc
+      internalID: -2105863795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_43
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 240
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c0ac41c5cf724ea2b315ed4444409
+      internalID: -253000209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_44
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 195
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c0604ab387b14fa1f1b4c36620835
+      internalID: 1269985595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_45
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 254
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61bc16f0575354e887a44f373a5c79
+      internalID: -1152989888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_46
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 374
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c10f2ab3faf92429b9e13ffc618eac
+      internalID: 1792389916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_47
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 460
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feca12140c8559409597525d2134492
+      internalID: -1850302372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_48
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 474
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35cb207c9cb4ec488c505654b06a101
+      internalID: 128285569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_49
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 383
+        width: 28
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e684e4e6d71a1438847e443dcc2e2f
+      internalID: 482412516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_50
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 258
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2797ad9f9073e4883fceaae2cf448d
+      internalID: -2018150015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_51
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 258
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178550a4ceea4cc4f89bcac16bbdaeb8
+      internalID: 1175534044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_52
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 197
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63e972974a88734485823d62603e9bc
+      internalID: -1042920665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_53
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 196
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e0c116706a774a9abebe014b83756
+      internalID: 752681103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_54
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 199
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738b89f9b8bf85645b28d438ee6d8d82
+      internalID: -673537889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_55
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 5
+        width: 133
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0368ddcaa2f81884fb0efb650f2b2514
+      internalID: -480505543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_56
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 96
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a617d7be35ab6d4e8929c7c8631af79
+      internalID: -2003525996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_57
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 9
+        width: 123
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26ed410b37082943a23cb8a51f23c46
+      internalID: 1693441290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_58
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 96
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8405003252827ad43b9d731465e8cd23
+      internalID: 2002000388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_59
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 136
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b03194490abd1344863474a6b5bdeed
+      internalID: 186419098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_60
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 133
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501863f42eb71b469327776224b63e0
+      internalID: -1052384290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_61
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 366
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a61e2fa585224e80d048cf36b71a9
+      internalID: -1041605096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_62
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 475
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f28e555c5e8344828fd4b1d0991ee
+      internalID: 1529058070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_63
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 474
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f64688e268f304fb09e236ef0565b8
+      internalID: 1530449507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_64
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 475
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e872e967b47be43abfc1c6f5541826
+      internalID: 1039060680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_65
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 379
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f254ff29781b124a8cef78d641dadb3
+      internalID: 1174555611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_66
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 477
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0418e9f73a9f4ea60e6cba354359e
+      internalID: -516675994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_67
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 474
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b55d511180c1843be23a53cf06df62
+      internalID: -1686417486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_68
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 379
+        width: 31
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a2fc2defd2b140a7369b0170c759c
+      internalID: -1782183805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_69
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 381
+        width: 25
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d17ce4944ba0247bb67acfeaf36bf7
+      internalID: -128153885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_70
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 381
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf70e1da59f3424fac1b692bf947b9a
+      internalID: 1402910813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_71
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 222
+        width: 51
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a630c8407af5fc498155e59822b474d
+      internalID: -1571111563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_72
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 223
+        width: 30
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac79844a3a9cf7d4a91efc48fbd13f65
+      internalID: 1166750004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_73
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 204
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef7ac3ee71cda46b2d44709112e75d
+      internalID: 140766554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_74
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 289
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e6823307989b4598a386eb1cf493d
+      internalID: 1953212055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_75
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 366
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb61ff78cc6d8024abba6c9138c960d5
+      internalID: 1056864305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_76
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 369
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d676becd87d75409c01e7e71cf0699
+      internalID: 364676112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_78
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 262
+        width: 32
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c452a62762ea16d4f9cd06c73d571088
+      internalID: 1469453594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_79
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 290
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538337159804a8d4eb6f6b5ab521a133
+      internalID: 2143472629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_77
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 288
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5da053a66cbe4b8a3401e9bcddde8
+      internalID: 960908800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_80
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 205
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b50a30c1c4ea442a169ebf8bca3f53
+      internalID: -1438082836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_81
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 11
+        width: 92
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3a70f0e22bb064bb9777f376543c94
+      internalID: 452876897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_82
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 7
+        width: 29
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b79fe9f4f7a4f84e931b6c903376ecd
+      internalID: -941389934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_83
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 95
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447bcd0e0cc3544196f0f1823d586ce
+      internalID: 311318005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: textura_caverna_84
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 9
+        width: 118
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80dd539f9100fe48a70821f3d2e405f
+      internalID: -171219509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 059e90b452df8b5459fbcb9997be9259
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      textura_caverna_0: -8128277317180650068
+      textura_caverna_1: 97114098
+      textura_caverna_10: -2132258832
+      textura_caverna_11: 1086042015
+      textura_caverna_12: -894698725
+      textura_caverna_13: -491499383
+      textura_caverna_14: -503142400
+      textura_caverna_15: -9866523
+      textura_caverna_16: -1067758547
+      textura_caverna_17: 211181253
+      textura_caverna_18: -1816384023
+      textura_caverna_19: -1695971071
+      textura_caverna_2: -637937144
+      textura_caverna_20: 1782913976
+      textura_caverna_21: -1253491332
+      textura_caverna_22: 1675251438
+      textura_caverna_23: -1132901832
+      textura_caverna_24: 565612470
+      textura_caverna_25: -18312433
+      textura_caverna_26: 2129378856
+      textura_caverna_27: 983656302
+      textura_caverna_28: -1619672017
+      textura_caverna_29: -2058136075
+      textura_caverna_3: 493699851
+      textura_caverna_30: -1220573961
+      textura_caverna_31: -2112552243
+      textura_caverna_32: 1236526912
+      textura_caverna_33: 1347023919
+      textura_caverna_34: 444438628
+      textura_caverna_35: 1591532397
+      textura_caverna_36: -961474841
+      textura_caverna_37: 869110544
+      textura_caverna_38: 281316970
+      textura_caverna_39: -1043617987
+      textura_caverna_4: -1788433443
+      textura_caverna_40: 1742365215
+      textura_caverna_41: -1433614775
+      textura_caverna_42: -2105863795
+      textura_caverna_43: -253000209
+      textura_caverna_44: 1269985595
+      textura_caverna_45: -1152989888
+      textura_caverna_46: 1792389916
+      textura_caverna_47: -1850302372
+      textura_caverna_48: 128285569
+      textura_caverna_49: 482412516
+      textura_caverna_5: 105938013
+      textura_caverna_50: -2018150015
+      textura_caverna_51: 1175534044
+      textura_caverna_52: -1042920665
+      textura_caverna_53: 752681103
+      textura_caverna_54: -673537889
+      textura_caverna_55: -480505543
+      textura_caverna_56: -2003525996
+      textura_caverna_57: 1693441290
+      textura_caverna_58: 2002000388
+      textura_caverna_59: 186419098
+      textura_caverna_6: 1451953315
+      textura_caverna_60: -1052384290
+      textura_caverna_61: -1041605096
+      textura_caverna_62: 1529058070
+      textura_caverna_63: 1530449507
+      textura_caverna_64: 1039060680
+      textura_caverna_65: 1174555611
+      textura_caverna_66: -516675994
+      textura_caverna_67: -1686417486
+      textura_caverna_68: -1782183805
+      textura_caverna_69: -128153885
+      textura_caverna_7: 675311409
+      textura_caverna_70: 1402910813
+      textura_caverna_71: -1571111563
+      textura_caverna_72: 1166750004
+      textura_caverna_73: 140766554
+      textura_caverna_74: 1953212055
+      textura_caverna_75: 1056864305
+      textura_caverna_76: 364676112
+      textura_caverna_77: 960908800
+      textura_caverna_78: 1469453594
+      textura_caverna_79: 2143472629
+      textura_caverna_8: -389752506
+      textura_caverna_80: -1438082836
+      textura_caverna_81: 452876897
+      textura_caverna_82: -941389934
+      textura_caverna_83: 311318005
+      textura_caverna_84: -171219509
+      textura_caverna_9: 1632567363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
