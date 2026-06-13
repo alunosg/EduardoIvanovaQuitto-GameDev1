@@ -79,12 +79,11 @@ public class EnemyController : MonoBehaviour
             col.bounds.center.y);
 
         if (!Physics2D.Raycast(point, Vector2.down, col.bounds.extents.y * 1.1f, floorLayers) ||
-                Physics2D.Raycast(point, Vector2.right * direction, col.bounds.extents.x * 0.1f, floorLayers))
+            Physics2D.Raycast(point, Vector2.right * direction, 0.1f, floorLayers))
         {
             direction *= -1;
-            transform.localScale = new Vector2(direction * 0.2f, 0.2f);
+            transform.localScale = new Vector2(direction, 0.2f);
         }
-
 
         float distance = Vector2.Distance(transform.position, player.transform.position);
         if (distance < chaseDistance)
@@ -152,10 +151,10 @@ public class EnemyController : MonoBehaviour
 
     private void SetDirection()
     {
-        direction = (player.transform.position - transform.position).normalized.x;
-        if (direction > 0) direction = 1;
-        else if (direction < 0) direction = -1;
-        transform.localScale = new Vector2(direction * 0.2f, 0.2f);
+        float distance = (player.transform.position - transform.position).x;
+        if (distance > attackDistance * 0.25f) direction = 0.2f;
+        else if (distance < -attackDistance * 0.25f) direction = -0.2f;
+        transform.localScale = new Vector2(direction, 0.2f);
     }
 
     private void EnterAttack()
